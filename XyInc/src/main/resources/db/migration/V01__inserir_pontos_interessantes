@@ -1,0 +1,7 @@
+CREATE TABLE poi (
+  id int,
+  nome_poir VARCHAR(250) NOT NULL,
+   coordenada_x integer,
+   coordenada_y integer,
+);
+
